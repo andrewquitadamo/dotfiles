@@ -1,5 +1,7 @@
 inoremap jk <ESC> 
 
+inoremap kj <C-X><C-F>
+
 syntax enable
 
 set vb
