@@ -1,4 +1,4 @@
-:inoremap jk <ESC> 
+inoremap jk <ESC> 
 
 syntax enable
 
