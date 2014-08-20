@@ -8,6 +8,8 @@ syntax enable
 
 set vb
 
+set hlsearch
+
 set tabstop=4 "Set tab width to 4 columns
 autocmd FileType python set expandtab "Set tabs to spaces in python
 
