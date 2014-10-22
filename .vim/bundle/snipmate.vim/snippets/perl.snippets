@@ -3,6 +3,16 @@ snippet #!
 	#!/usr/bin/perl
 	use strict;
 	use warnings;
+
+#Open file
+snippet openfile
+	my $${1:file variable} = ${2:Filename or ARGV};
+	open(FILE,$$1) || die "Can't open file $$1";
+	while (<FILE>)
+	{
+	
+	}
+	close FILE;
 # Hash Pointer
 snippet .
 	 =>
