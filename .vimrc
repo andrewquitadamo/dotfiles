@@ -4,7 +4,7 @@ inoremap jk <ESC>
 
 inoremap kj <C-X><C-F>
 
-inoremap df <C-n>
+inoremap fd <C-n>
 
 syntax enable
 set background=light
