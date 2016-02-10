@@ -1,0 +1,9 @@
+Host viper
+    Hostname viper.urc.uncc.edu
+    User aquitada
+    IdentityFile ~/.ssh/id_rsa
+
+Host cobra
+    Hostname cobra.urc.uncc.edu
+    User aquitada
+    IdentityFile ~/.ssh/id_rsa
